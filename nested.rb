@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         }
      }
      
-     print programmer_hash[:alan_kay]
+     return programmer_hash[:alan_kay]
      
 end
 
